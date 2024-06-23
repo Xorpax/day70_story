@@ -1,4 +1,4 @@
 # ignore all .venv files
 *.venv
-secrets.tx
+secrets.txt
 .idea
