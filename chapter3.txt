@@ -1,0 +1,7 @@
+Branching and merging
+
+git branch <branch-name> will create a branch from the repo tree. It can be updated alongside
+the main branch, as they will not collide.
+
+git merge <branch-name> merges a branch with the main branch. This can be used after
+writing a separate module of a program to add it to the main version of the project.
