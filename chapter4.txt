@@ -1,0 +1,9 @@
+Working in a remote repository
+
+git rebase <branch-name> is used to combine or move a sequence of commits to a new base commit.
+The command creates a more linear project history
+
+
+Forking - saving a copy of a repository to a personal machine/account which is now free to modify
+
+Pull request - requesting merging changes onto someone else's remote repository
