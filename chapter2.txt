@@ -1,1 +1,4 @@
-yes
+cloning a GitHub repo
+
+``git clone [repo url]`` will clone a repository into a newly created directory
+
