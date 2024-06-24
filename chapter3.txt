@@ -5,6 +5,8 @@ the main branch, as they will not collide.
 
 git merge <branch-name> merges a branch with the main branch. This can be used after
 writing a separate module of a program to add it to the main version of the project.
+(IMPORTANT) you need to currently be in the branch you want to merge <branch-name> branch to.
+For example, you need to be in the main branch and then use git merge <branch-name-to-merge-to-main>
 
 git branch by itself will list available branches
 
