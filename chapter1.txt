@@ -20,3 +20,5 @@ specific tree (basically works like a rollback or synchronising with one version
 extensions that will be ignored and will not be added to the staging area. Especially useful
 when dealing with sensitive data, such as API keys or data that is irrelevant and will only
 bloat the repo
+
+git push will upload commits to the remote repository
