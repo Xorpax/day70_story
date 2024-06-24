@@ -11,3 +11,6 @@ For example, you need to be in the main branch and then use git merge <branch-na
 git branch by itself will list available branches
 
 to switch to a specific branch, use ``git checkout <branch-name>``
+
+
+tip for VIM: to exit and save, type ``:q!``
