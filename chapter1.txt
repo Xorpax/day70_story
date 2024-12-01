@@ -2,7 +2,7 @@ This is a lesson about using git and GitHub version control
 
 to start off, use ``git init`` to initialise a repository
 
-staging are contains information about what will go into your next commit
+staging area contains information about what will go into your next commit
 
 git commit -m [descriptive message] to commit
 
